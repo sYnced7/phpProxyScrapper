@@ -1,0 +1,2 @@
+# phpProxyScrapper
+This web scripts have a version checker and some other integrations. It scrappes proxys on the web too and give acesses to users. It was made initially to the following project: https://github.com/sYnced7/trafficgenerator Enjoy, many people on the forums and email asked for that and there i am giving it for free for all of you. You can make profit of it, but dont remove credits.
